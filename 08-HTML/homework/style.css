@@ -1,5 +1,9 @@
 .divClass h1 {
     color: blue;
+    position: relative;
+    left: 200px;
+    top: 20px;
+   
 
  }
  img {
@@ -12,9 +16,10 @@
      background-color: rgb(27, 40, 155);
      padding: 50px;
      border-color: brown;
-     border-style: dotted;
+     border-style: dotted;  
  }
  #spanId {
      font-size: 18px;
      margin: 50px;
  }
+ 
