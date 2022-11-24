@@ -50,7 +50,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
 #ejercicioCinco {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     align-items: center;
     flex-direction: row-reverse;
     
